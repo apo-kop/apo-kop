@@ -9,7 +9,7 @@
 - MSc in Data Science & Machine Learning, *Hellenic Open University*
 
 💡 **Interests:** Programming, Technology, Social Media, Environmentalism  
-🍿 **Hobbies:** Cinema & TV, Hiking, Tech News, Photography & ☕ Coffee  
+🍿 **Hobbies:** Cinema & TV, Hiking, Tech News, Photography & ungodly amounts of Coffee  
 🔗 **Connect:** [Instagram](https://instagram.com/apo.kopalidis/)
 
 ---
