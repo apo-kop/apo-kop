@@ -29,6 +29,6 @@
 ![Deployment](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,podman,apache,nginx,bash,caddy,gitea)
 
 **Tools, OS & Version Control**  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,android,vscode,vim,chrome,git,github)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,android,vscode,vim,firefox,git,github)
 
 ---
